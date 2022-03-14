@@ -1,1 +1,5 @@
-Yea randome readmes file because github can't create an empty folder 
+Yea random readmes file because github can't create an empty folder 
+
+The HMC533L is the I2Cdev.h
+the other HMC533L i believe i imported the right one, but the libary is kinda hard to understand so this is the link
+https://github.com/jarzebski/Arduino-HMC5883L
