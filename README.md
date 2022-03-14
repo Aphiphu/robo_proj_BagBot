@@ -1,6 +1,8 @@
 # robo_proj_BagBot
 
-All files should be in one folder for easy use  
+## Ignore files that are not in a folder
+
+All files should be in the relevant folder for easy use  
 Comments should be good and clear enough, msg me on line for anything unclear but I should be there in person later.  
 
 Ill include the folders in the zip folder, but the links on the comments is the same  
