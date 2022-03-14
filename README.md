@@ -7,7 +7,7 @@ Comments should be good and clear enough, msg me on line for anything unclear bu
 
 Ill include the folders in the zip folder, but the links on the comments is the same  
 # Missing info
-This does not have the gyroscope + accelerometer yet, but for that everything but the motor control I have (readings for x,y,z and yaw,roll,pitch)  
+Read Gyro Accel ReadMEs file
 
 ### BagBot
 setOffset we need to find those values  
